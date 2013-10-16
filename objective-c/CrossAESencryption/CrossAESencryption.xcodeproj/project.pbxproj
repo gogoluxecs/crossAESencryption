@@ -1,0 +1,510 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1A6B9FE9180E836D00032657 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A6B9FE8180E836D00032657 /* Foundation.framework */; };
+		1A6B9FEE180E836D00032657 /* CrossAESencryption.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 1A6B9FED180E836D00032657 /* CrossAESencryption.h */; };
+		1A6B9FF0180E836D00032657 /* CrossAESencryption.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A6B9FEF180E836D00032657 /* CrossAESencryption.m */; };
+		1A6B9FF8180E836D00032657 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A6B9FF7180E836D00032657 /* SenTestingKit.framework */; };
+		1A6B9FFA180E836D00032657 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A6B9FF9180E836D00032657 /* UIKit.framework */; };
+		1A6B9FFB180E836D00032657 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A6B9FE8180E836D00032657 /* Foundation.framework */; };
+		1A6B9FFE180E836D00032657 /* libCrossAESencryption.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A6B9FE5180E836D00032657 /* libCrossAESencryption.a */; };
+		1A6BA026180E8C5F00032657 /* AESEncryption.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A6BA025180E8C5F00032657 /* AESEncryption.m */; };
+		1A6BA029180E8C6F00032657 /* FBEncryptorAES.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A6BA028180E8C6F00032657 /* FBEncryptorAES.m */; };
+		1A6BA032180E8CFA00032657 /* CrossAESencryptionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A6BA02E180E8CC400032657 /* CrossAESencryptionTests.m */; };
+		1A6BA035180E8D3C00032657 /* CAESEncryptionTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A6BA034180E8D3C00032657 /* CAESEncryptionTest.m */; };
+		D72CD556EE1246A59B2BB7B9 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 011155330B254EBF82BD78A9 /* libPods.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1A6B9FFC180E836D00032657 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1A6B9FDC180E836D00032657 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1A6B9FE4180E836D00032657;
+			remoteInfo = CrossAESencryption;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		1A6B9FE3180E836D00032657 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/${PRODUCT_NAME}";
+			dstSubfolderSpec = 16;
+			files = (
+				1A6B9FEE180E836D00032657 /* CrossAESencryption.h in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		011155330B254EBF82BD78A9 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A6B9FE5180E836D00032657 /* libCrossAESencryption.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libCrossAESencryption.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A6B9FE8180E836D00032657 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1A6B9FEC180E836D00032657 /* CrossAESencryption-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CrossAESencryption-Prefix.pch"; sourceTree = "<group>"; };
+		1A6B9FED180E836D00032657 /* CrossAESencryption.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CrossAESencryption.h; sourceTree = "<group>"; };
+		1A6B9FEF180E836D00032657 /* CrossAESencryption.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CrossAESencryption.m; sourceTree = "<group>"; };
+		1A6B9FF6180E836D00032657 /* CrossAESencryptionTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CrossAESencryptionTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A6B9FF7180E836D00032657 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		1A6B9FF9180E836D00032657 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		1A6BA024180E8C5F00032657 /* AESEncryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AESEncryption.h; path = aes/AESEncryption.h; sourceTree = "<group>"; };
+		1A6BA025180E8C5F00032657 /* AESEncryption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AESEncryption.m; path = aes/AESEncryption.m; sourceTree = "<group>"; };
+		1A6BA027180E8C6F00032657 /* FBEncryptorAES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FBEncryptorAES.h; path = aes/adapter/FBEncryptorAES.h; sourceTree = "<group>"; };
+		1A6BA028180E8C6F00032657 /* FBEncryptorAES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FBEncryptorAES.m; path = aes/adapter/FBEncryptorAES.m; sourceTree = "<group>"; };
+		1A6BA02D180E8CC400032657 /* CrossAESencryptionTests.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CrossAESencryptionTests.h; sourceTree = "<group>"; };
+		1A6BA02E180E8CC400032657 /* CrossAESencryptionTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CrossAESencryptionTests.m; sourceTree = "<group>"; };
+		1A6BA033180E8D3C00032657 /* CAESEncryptionTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CAESEncryptionTest.h; path = aes/CAESEncryptionTest.h; sourceTree = "<group>"; };
+		1A6BA034180E8D3C00032657 /* CAESEncryptionTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CAESEncryptionTest.m; path = aes/CAESEncryptionTest.m; sourceTree = "<group>"; };
+		3E1A627F85A844D985EC5C86 /* libPods-test.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-test.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77B58E4753694F9B843A2654 /* Pods-test.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test.xcconfig"; path = "Pods/Pods-test.xcconfig"; sourceTree = "<group>"; };
+		A9ADD86C69C648AB84F3FA7A /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1A6B9FE2180E836D00032657 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A6B9FE9180E836D00032657 /* Foundation.framework in Frameworks */,
+				D72CD556EE1246A59B2BB7B9 /* libPods.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A6B9FF2180E836D00032657 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A6B9FF8180E836D00032657 /* SenTestingKit.framework in Frameworks */,
+				1A6B9FFA180E836D00032657 /* UIKit.framework in Frameworks */,
+				1A6B9FFB180E836D00032657 /* Foundation.framework in Frameworks */,
+				1A6B9FFE180E836D00032657 /* libCrossAESencryption.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1A6B9FDA180E836D00032657 = {
+			isa = PBXGroup;
+			children = (
+				1A6B9FEA180E836D00032657 /* CrossAESencryption */,
+				1A6BA02B180E8CC400032657 /* CrossAESencryptionTests */,
+				1A6B9FE7180E836D00032657 /* Frameworks */,
+				1A6B9FE6180E836D00032657 /* Products */,
+				A9ADD86C69C648AB84F3FA7A /* Pods.xcconfig */,
+				77B58E4753694F9B843A2654 /* Pods-test.xcconfig */,
+			);
+			sourceTree = "<group>";
+		};
+		1A6B9FE6180E836D00032657 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1A6B9FE5180E836D00032657 /* libCrossAESencryption.a */,
+				1A6B9FF6180E836D00032657 /* CrossAESencryptionTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1A6B9FE7180E836D00032657 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1A6B9FE8180E836D00032657 /* Foundation.framework */,
+				1A6B9FF7180E836D00032657 /* SenTestingKit.framework */,
+				1A6B9FF9180E836D00032657 /* UIKit.framework */,
+				011155330B254EBF82BD78A9 /* libPods.a */,
+				3E1A627F85A844D985EC5C86 /* libPods-test.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1A6B9FEA180E836D00032657 /* CrossAESencryption */ = {
+			isa = PBXGroup;
+			children = (
+				1A6BA022180E8BA500032657 /* aes */,
+				1A6B9FED180E836D00032657 /* CrossAESencryption.h */,
+				1A6B9FEF180E836D00032657 /* CrossAESencryption.m */,
+				1A6B9FEB180E836D00032657 /* Supporting Files */,
+			);
+			path = CrossAESencryption;
+			sourceTree = "<group>";
+		};
+		1A6B9FEB180E836D00032657 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1A6B9FEC180E836D00032657 /* CrossAESencryption-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1A6BA022180E8BA500032657 /* aes */ = {
+			isa = PBXGroup;
+			children = (
+				1A6BA024180E8C5F00032657 /* AESEncryption.h */,
+				1A6BA025180E8C5F00032657 /* AESEncryption.m */,
+				1A6BA023180E8BE000032657 /* adapter */,
+			);
+			name = aes;
+			sourceTree = "<group>";
+		};
+		1A6BA023180E8BE000032657 /* adapter */ = {
+			isa = PBXGroup;
+			children = (
+				1A6BA027180E8C6F00032657 /* FBEncryptorAES.h */,
+				1A6BA028180E8C6F00032657 /* FBEncryptorAES.m */,
+			);
+			name = adapter;
+			sourceTree = "<group>";
+		};
+		1A6BA02B180E8CC400032657 /* CrossAESencryptionTests */ = {
+			isa = PBXGroup;
+			children = (
+				1A6BA036180E8D4300032657 /* aes */,
+				1A6BA02D180E8CC400032657 /* CrossAESencryptionTests.h */,
+				1A6BA02E180E8CC400032657 /* CrossAESencryptionTests.m */,
+			);
+			path = CrossAESencryptionTests;
+			sourceTree = "<group>";
+		};
+		1A6BA036180E8D4300032657 /* aes */ = {
+			isa = PBXGroup;
+			children = (
+				1A6BA033180E8D3C00032657 /* CAESEncryptionTest.h */,
+				1A6BA034180E8D3C00032657 /* CAESEncryptionTest.m */,
+			);
+			name = aes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1A6B9FE4180E836D00032657 /* CrossAESencryption */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A6BA00A180E836D00032657 /* Build configuration list for PBXNativeTarget "CrossAESencryption" */;
+			buildPhases = (
+				FD5135E4450A44368DCF262D /* Check Pods Manifest.lock */,
+				1A6B9FE1180E836D00032657 /* Sources */,
+				1A6B9FE2180E836D00032657 /* Frameworks */,
+				1A6B9FE3180E836D00032657 /* CopyFiles */,
+				BE27038BCD2145AD91966440 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CrossAESencryption;
+			productName = CrossAESencryption;
+			productReference = 1A6B9FE5180E836D00032657 /* libCrossAESencryption.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		1A6B9FF5180E836D00032657 /* CrossAESencryptionTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A6BA00D180E836D00032657 /* Build configuration list for PBXNativeTarget "CrossAESencryptionTests" */;
+			buildPhases = (
+				53270DFCF51546E78F65E9D2 /* Check Pods Manifest.lock */,
+				1A6B9FF1180E836D00032657 /* Sources */,
+				1A6B9FF2180E836D00032657 /* Frameworks */,
+				1A6B9FF3180E836D00032657 /* Resources */,
+				1A6B9FF4180E836D00032657 /* ShellScript */,
+				536323474350497DB134D701 /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1A6B9FFD180E836D00032657 /* PBXTargetDependency */,
+			);
+			name = CrossAESencryptionTests;
+			productName = CrossAESencryptionTests;
+			productReference = 1A6B9FF6180E836D00032657 /* CrossAESencryptionTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1A6B9FDC180E836D00032657 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = CAES;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Georgi Lambov";
+			};
+			buildConfigurationList = 1A6B9FDF180E836D00032657 /* Build configuration list for PBXProject "CrossAESencryption" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1A6B9FDA180E836D00032657;
+			productRefGroup = 1A6B9FE6180E836D00032657 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1A6B9FE4180E836D00032657 /* CrossAESencryption */,
+				1A6B9FF5180E836D00032657 /* CrossAESencryptionTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1A6B9FF3180E836D00032657 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1A6B9FF4180E836D00032657 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+		53270DFCF51546E78F65E9D2 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		536323474350497DB134D701 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-test-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BE27038BCD2145AD91966440 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FD5135E4450A44368DCF262D /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1A6B9FE1180E836D00032657 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A6B9FF0180E836D00032657 /* CrossAESencryption.m in Sources */,
+				1A6BA026180E8C5F00032657 /* AESEncryption.m in Sources */,
+				1A6BA029180E8C6F00032657 /* FBEncryptorAES.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A6B9FF1180E836D00032657 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A6BA032180E8CFA00032657 /* CrossAESencryptionTests.m in Sources */,
+				1A6BA035180E8D3C00032657 /* CAESEncryptionTest.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1A6B9FFD180E836D00032657 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1A6B9FE4180E836D00032657 /* CrossAESencryption */;
+			targetProxy = 1A6B9FFC180E836D00032657 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		1A6BA008180E836D00032657 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1A6BA009180E836D00032657 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1A6BA00B180E836D00032657 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9ADD86C69C648AB84F3FA7A /* Pods.xcconfig */;
+			buildSettings = {
+				DSTROOT = /tmp/CrossAESencryption.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CrossAESencryption/CrossAESencryption-Prefix.pch";
+				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		1A6BA00C180E836D00032657 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A9ADD86C69C648AB84F3FA7A /* Pods.xcconfig */;
+			buildSettings = {
+				DSTROOT = /tmp/CrossAESencryption.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CrossAESencryption/CrossAESencryption-Prefix.pch";
+				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		1A6BA00E180E836D00032657 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 77B58E4753694F9B843A2654 /* Pods-test.xcconfig */;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CrossAESencryption/CrossAESencryption-Prefix.pch";
+				INFOPLIST_FILE = "CrossAESencryptionTests/CrossAESencryptionTests-Info.plist";
+				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		1A6BA00F180E836D00032657 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 77B58E4753694F9B843A2654 /* Pods-test.xcconfig */;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CrossAESencryption/CrossAESencryption-Prefix.pch";
+				INFOPLIST_FILE = "CrossAESencryptionTests/CrossAESencryptionTests-Info.plist";
+				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1A6B9FDF180E836D00032657 /* Build configuration list for PBXProject "CrossAESencryption" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A6BA008180E836D00032657 /* Debug */,
+				1A6BA009180E836D00032657 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A6BA00A180E836D00032657 /* Build configuration list for PBXNativeTarget "CrossAESencryption" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A6BA00B180E836D00032657 /* Debug */,
+				1A6BA00C180E836D00032657 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A6BA00D180E836D00032657 /* Build configuration list for PBXNativeTarget "CrossAESencryptionTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A6BA00E180E836D00032657 /* Debug */,
+				1A6BA00F180E836D00032657 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1A6B9FDC180E836D00032657 /* Project object */;
+}

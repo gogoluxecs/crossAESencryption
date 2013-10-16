@@ -1,0 +1,201 @@
+TCrossAESencryptionTests
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/Info.plist CrossAESencryptionTests/CrossAESencryptionTests-Info.plist
+cPhaseScriptExecution "Check Pods Manifest.lock" /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-53270DFCF51546E78F65E9D2.sh
+cProcessPCH /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch.pth CrossAESencryption/CrossAESencryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/CrossAESencryptionTests normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c00000000509790D30000000000030F60
+t1352110291
+s200544
+
+N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/UIKit.framework/UIKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000509790EF00000000003DCEF0
+t1352110319
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000509790EF00000000000015F7
+t1352110319
+s5623
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.LinkFileList
+c00000000525E508D00000000000000F3
+t1381912717
+s243
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.o
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-1A6B9FF4180E836D00032657.sh
+c00000000525E508D0000000000000062
+t1381912717
+s98
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-53270DFCF51546E78F65E9D2.sh
+c00000000525E508D0000000000000103
+t1381912717
+s259
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-536323474350497DB134D701.sh
+c00000000525E508D0000000000000034
+t1381912717
+s52
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch.pth
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest.dSYM
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/CrossAESencryptionTests
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/Info.plist
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libCrossAESencryption.a
+c00000000525E508B00000000000053B0
+t1381912715
+s21424
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a
+c00000000525E508D00000000000BE670
+t1381912717
+s779888
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryption/CrossAESencryption-Prefix.pch
+c00000000525E4BED00000000000000B1
+t1381911533
+s177
+i<Foundation/Foundation.h>
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests.m
+c00000000525E4BED00000000000001F4
+t1381911533
+s500
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/en.lproj/InfoPlist.strings
+c00000000525E4BED000000000000002D
+t1381911533
+s45
+
+NCrossAESencryptionTests/CrossAESencryptionTests-Info.plist
+c00000000525E4BED00000000000002BD
+t1381911533
+s701
+
+CBuild AST from /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6e181d0d880eb841^c9e7250d880eb841^---0#1#0#--18"Check dependencies36"316C332A-33E9-4BA4-BF11-2164E5971DA0-
+
+CCompileC Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403605517.521832
+e403605517.549117
+r1
+xCompileC
+xBuild/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.o
+x/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Compile /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests.m2dd1850d880eb841^10938c0d880eb841^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests.m0000000000000000^5764"CompileC Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.o CrossAESencryptionTests/CrossAESencryptionTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/georgilambov/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/bin:/Users/georgilambov/opt/apache-maven-3.0.4/bin:/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/CrossAESencryptionTests-generated-files.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/CrossAESencryptionTests-own-target-headers.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/CrossAESencryptionTests-all-target-headers.hmap -iquote /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/CrossAESencryptionTests-project-headers.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/include -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Headers -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Headers/NSData+Base64 -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Headers/OCHamcrest -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Headers/OCMock -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/DerivedSources/i386 -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/DerivedSources -F/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -include /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch -MMD -MT dependencies -MF /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.d --serialize-diagnostics /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.dia -c /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests.m -o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.o36"F9903724-90A3-4DB6-9D24-61872AF875BD-
+
+CCopyStringsFile /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/en.lproj/InfoPlist.strings CrossAESencryptionTests/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest.dSYM /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/CrossAESencryptionTests
+r0
+
+CLd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/CrossAESencryptionTests normal i386
+s403605517.555786
+e403605517.735997
+r0
+xLd
+x/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/CrossAESencryptionTests
+xnormal
+xi386
+oduplicate symbol _NewBase64Decode in:
+o    /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libCrossAESencryption.a(NSData+Base64.o)
+o    /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a(NSData+Base64.o)
+oduplicate symbol _NewBase64Encode in:
+o    /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libCrossAESencryption.a(NSData+Base64.o)
+o    /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a(NSData+Base64.o)
+old: 2 duplicate symbols for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection196"Link /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/CrossAESencryptionTestsc66b8e0d880eb841^7b67bc0d880eb841^-912"duplicate symbol _NewBase64Decode in:    /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libCrossAESencryption.a(NSData+Base64.o)    /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a(NSData+Base64.o)duplicate symbol _NewBase64Encode in:    /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libCrossAESencryption.a(NSData+Base64.o)    /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a(NSData+Base64.o)ld: 2 duplicate symbols for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@41"2 duplicate symbols for architecture i386-403605517#786#46#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-403605517#832#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--2223"Ld Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/CrossAESencryptionTests normal i386    cd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/georgilambov/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/bin:/Users/georgilambov/opt/apache-maven-3.0.4/bin:/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator -F/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Objects-normal/i386/CrossAESencryptionTests.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework SenTestingKit -framework UIKit -framework Foundation -lCrossAESencryption -lPods-test -o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/CrossAESencryptionTests36"6045C77D-B7D0-4285-8E0B-D97F43A88F7E-
+
+CPhaseScriptExecution "Check Pods Manifest.lock" /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-53270DFCF51546E78F65E9D2.sh
+s403605517.164617
+e403605517.184630
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-53270DFCF51546E78F65E9D2.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'9d0f2b0d880eb841^4e442f0d880eb841^---0#0#0#--534"PhaseScriptExecution "Check Pods Manifest.lock" Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-53270DFCF51546E78F65E9D2.sh    cd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption    /bin/sh -c /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-53270DFCF51546E78F65E9D2.sh36"044FF484-C034-4686-ADEE-5430DA643AA6-
+
+CPhaseScriptExecution "Copy Pods Resources" /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-536323474350497DB134D701.sh
+r0
+
+CPhaseScriptExecution "Run Script" /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/Script-1A6B9FF4180E836D00032657.sh
+r0
+
+CProcessInfoPlistFile /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/Info.plist CrossAESencryptionTests/CrossAESencryptionTests-Info.plist
+s403605517.152908
+e403605517.156727
+r1
+xProcessInfoPlistFile
+x/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/Info.plist
+xCrossAESencryptionTests/CrossAESencryptionTests-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Process CrossAESencryptionTests/CrossAESencryptionTests-Info.plistf354270d880eb841^a71f280d880eb841^---0#0#0#-19%DVTDocumentLocation2@174"file://localhost/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryptionTests/CrossAESencryptionTests-Info.plist0000000000000000^1153"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/Info.plist CrossAESencryptionTests/CrossAESencryptionTests-Info.plist    cd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/georgilambov/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/bin:/Users/georgilambov/opt/apache-maven-3.0.4/bin:/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/usr/local/sbin"    builtin-infoPlistUtility CrossAESencryptionTests/CrossAESencryptionTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest/Info.plist36"3B512EBA-75BA-404E-BDB3-FC4D27A4FEB2-
+
+CProcessPCH /Users/georgilambov/Library/Developer/Xcode/DerivedData/CrossAESencryption-anfvojfeqdixrqgttwvzkgrgkezg/Index/PrecompiledHeaders/CrossAESencryption-Prefix-gsxuknrdtqmvoedkhkznvefypwtv_ast/CrossAESencryption-Prefix.pch.pth CrossAESencryption/CrossAESencryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch.pth CrossAESencryption/CrossAESencryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403605517.192155
+e403605517.515269
+r1
+xProcessPCH
+x/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch.pth
+xCrossAESencryption/CrossAESencryption-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile CrossAESencryption/CrossAESencryption-Prefix.pch5264310d880eb841^cde8830d880eb841^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryption/CrossAESencryption-Prefix.pch0000000000000000^5474"ProcessPCH Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch.pth CrossAESencryption/CrossAESencryption-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/georgilambov/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/bin:/Users/georgilambov/opt/apache-maven-3.0.4/bin:/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/CrossAESencryptionTests-generated-files.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/CrossAESencryptionTests-own-target-headers.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/CrossAESencryptionTests-all-target-headers.hmap -iquote /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/CrossAESencryptionTests-project-headers.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/include -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Headers -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Headers/NSData+Base64 -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Headers/OCHamcrest -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Headers/OCMock -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/DerivedSources/i386 -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/CrossAESencryption.build/Debug-iphonesimulator/CrossAESencryptionTests.build/DerivedSources -F/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks --serialize-diagnostics /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch.dia -c /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/CrossAESencryption/CrossAESencryption-Prefix.pch -o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch.pth -MMD -MT dependencies -MF /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/PrecompiledHeaders/CrossAESencryption-Prefix-ejuovmnqbimwshglvucxusifpfvk/CrossAESencryption-Prefix.pch.d36"8794553D-BA12-44D2-AAAC-D7CA8D540C00-
+
+CTouch /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/CrossAESencryptionTests.octest
+r0
+

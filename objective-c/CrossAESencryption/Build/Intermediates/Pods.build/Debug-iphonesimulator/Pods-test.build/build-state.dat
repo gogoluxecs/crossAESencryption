@@ -1,0 +1,80 @@
+TPods-test
+v5
+r1
+cCheck dependencies
+cCompileC /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test-dummy.o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods-test-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test-dummy.o
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test.LinkFileList
+c00000000525E508C00000000000000CF
+t1381912716
+s207
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test-NSData+Base64.a
+c00000000525E50890000000000003C40
+t1381912713
+s15424
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test-OCHamcrest.a
+c00000000525E508C000000000007A2E0
+t1381912716
+s500448
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test-OCMock.a
+c00000000525E5089000000000003FC38
+t1381912713
+s261176
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a
+t2
+s0
+
+N/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods-test-dummy.m
+c00000000525E4C32000000000000007A
+t1381911602
+s122
+
+CBuild AST from /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods-test-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2fa7b40c880eb841^8eceb50c880eb841^---0#1#0#--18"Check dependencies36"84AD7456-0D2B-4EA4-839C-EBA1A35FE75F-
+
+CCompileC /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test-dummy.o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods-test-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s403605516.712194
+e403605516.886829
+r1
+xCompileC
+x/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test-dummy.o
+x/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods-test-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods-test-dummy.m2880b60c880eb841^f207e30c880eb841^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods-test-dummy.m0000000000000000^4980"CompileC /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test-dummy.o Pods-test-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/georgilambov/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/bin:/Users/georgilambov/opt/apache-maven-3.0.4/bin:/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.3 -iquote /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Pods-test-generated-files.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Pods-test-own-target-headers.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Pods-test-all-target-headers.hmap -iquote /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Pods-test-project-headers.hmap -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/include -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods/Headers -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods/Headers/NSData+Base64 -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods/Headers/OCHamcrest -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods/Headers/OCMock -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/DerivedSources/i386 -I/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/DerivedSources -F/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test-dummy.d --serialize-diagnostics /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test-dummy.dia -c /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods/Pods-test-dummy.m -o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test-dummy.o36"3D53525A-2B26-4EC8-A884-E86C43889BAA-
+
+CLibtool /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a normal i386
+s403605516.893607
+e403605517.089558
+r1
+xLibtool
+x/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Libtool /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a normal i386d5ede40c880eb841^42ee160d880eb841^---0#0#0#--1738"Libtool /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a normal i386    cd /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/gems/ruby-1.9.3-p194@global/bin:/Users/georgilambov/.rvm/rubies/ruby-1.9.3-p194/bin:/Users/georgilambov/.rvm/bin:/Users/georgilambov/opt/apache-maven-3.0.4/bin:/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/usr/local/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator -filelist /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-test.build/Objects-normal/i386/Pods-test.LinkFileList -framework Foundation -lPods-test-NSData+Base64 -lPods-test-OCHamcrest -lPods-test-OCMock -o /Users/georgilambov/project/com/github/gogoluxecs/crossAESencryption/objective-c/CrossAESencryption/Build/Products/Debug-iphonesimulator/libPods-test.a36"9BBCB76D-57B3-4E35-9BEE-1F2832E76BE8-
+

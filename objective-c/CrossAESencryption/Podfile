@@ -1,0 +1,10 @@
+platform	:ios
+
+pod	'NSData+Base64', 	'1.0.0'
+
+target :test do
+	pod	'OCMock',	'2.0.1'
+	pod 	'OCHamcrest',	'1.8'
+	link_with 	'CrossAESencryptionTests'
+
+end

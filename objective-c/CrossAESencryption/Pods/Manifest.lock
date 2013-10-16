@@ -1,0 +1,16 @@
+PODS:
+  - NSData+Base64 (1.0.0)
+  - OCHamcrest (1.8)
+  - OCMock (2.0.1)
+
+DEPENDENCIES:
+  - NSData+Base64 (= 1.0.0)
+  - OCHamcrest (= 1.8)
+  - OCMock (= 2.0.1)
+
+SPEC CHECKSUMS:
+  NSData+Base64: 8c8825f3ef5c9cfa12d7c4de648429484dcee09b
+  OCHamcrest: 438f4acec0af752aef557d5566684abde768b094
+  OCMock: 975ba11037fe16439c93226bf889dcf3d51ab4d9
+
+COCOAPODS: 0.26.2
