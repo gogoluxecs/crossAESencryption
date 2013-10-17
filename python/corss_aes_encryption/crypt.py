@@ -62,7 +62,6 @@ class AESEncryption:
             raise ValueError("key is required")
 
         BS = (self.BS if self.BS else BS)
-        unpad = lambda s: s[0:-ord(s[-1])]
         cipher = AES.new(self.key)
 
         decrypted = \
@@ -76,7 +75,7 @@ class AESEncryption:
                 cipher.decrypt(base64.b64decode(encodedEncrypted)[i
                                * BS:])[:BS]
 
-        return unpad(decrypted.strip())
+        return self.pkcs7.decode(decrypted)
 
     def encode(self, raw, BS=16):
         """
